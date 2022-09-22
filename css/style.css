@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+nav{
+    background-color: #303030;
+}
+#search-btn{
+    background-color: #e8631c;
+    border: 0px;
+    
+}
+.hero-part{
+    background: url(../image/back.png) no-repeat center;
+    background-size: cover;
+    color: #ffffff;
+    padding: 200px 0px 20px;
+    
+}
+#about{
+    background: url(../image/body.png) no-repeat center fixed;
+    background-size: cover;
+}
+.card{
+    background-color: #303030;
+}
+#basic{
+    background: url(../image/basic.png) no-repeat center;
+    background-size: cover;
+
+}
+
+.card-2{
+    background-color: #e8631c;
+}
+#read{
+    background-color: #303030;
+    background: url(../image/read-b.png) no-repeat center;
+    background-size: cover;
+}
+
+.card-body-2{
+    margin-top: 80px;
+}
+#our{
+    height: 500px;
+    background-color: #303030;
+}
+.our-writing-part{
+    color: #ffffff;
+   
+   text-align: center;
+
+}
+.our-box{
+    margin-top: 150px;
+    color: #ffffff;
+
+    
+}
+#simon{
+    background: url(../image/simon.png) no-repeat center;
+    background-size: cover;
+}
+.simon-writing-part{
+    margin-top: 80px;
+}
